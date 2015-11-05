@@ -1,5 +1,5 @@
 /*
-  ax12.cpp - ArbotiX library for AX/RX control.
+  max12.cpp - ArbotiX library for AX/RX control.
   Copyright (c) 2008-2011 Michael E. Ferguson.  All right reserved.
   This library is free software; you can redistribute it and/or
   modify it under the terms of the GNU Lesser General Public
